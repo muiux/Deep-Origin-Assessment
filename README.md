@@ -28,7 +28,6 @@ A simple web application to create and manage shortened URLs, making it easier t
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/muiux/Deep-Origin-Assessment
-   cd url-shortener
 2. **Start the Application**:
 - Build and run with Docker:
     ```bash
